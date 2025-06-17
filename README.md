@@ -3,4 +3,4 @@ Test instance from [tutorial](https://nmfs-opensci.github.io/GitHub-Clinic/conte
 
 - This is a bullet
 - So is this
- - is this one too?
+  - is this one too?
